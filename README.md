@@ -35,7 +35,7 @@ https://github.com/Dark-Edge/Standalone_pointing
 
 * don't have any for now
 
-# If you want to help me with my scripts :slight_smile: 
+# If you want to help me with my scripts : 
 https://forum.cfx.re/t/need-testers-to-improove-my-script-and-redm-base-besoin-de-testeurs-pour-parfaire-mes-scripts-et-ma-base-de-jeu/5280079
 
 Feel free to use this script as you want 'cause it’s opensource but don’t forget credits! :wink:
