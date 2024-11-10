@@ -43,7 +43,7 @@ Feel free to use this script as you want 'cause it’s opensource but don’t fo
 |                                         |                                |
 |-------------------------------------|----------------------------|
 | Code is accessible       | Yes                        |
-| Subscription-based      | Yes                        |
+| Subscription-based      | NO                        |
 | Lines (approximately)  | 140                       |
 | Requirements                | N/A                       |
 | Support                           | No                         |
