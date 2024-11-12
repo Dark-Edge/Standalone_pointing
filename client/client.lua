@@ -50,7 +50,7 @@ local function startPointing()
     SetPedCurrentWeaponVisible(ped, 0, 1, 1, 1)
     SetPedConfigFlag(ped, 36, 1)
 	TaskPlayAnim( ped,"ai_react@point@base","point_fwd", -1, -1, -1, 30, 0, false, false, false)
-    RemoveAnimDict("point_fwd")
+    RemoveAnimDict("ai_react@point@base")
 end
 
 local function stopPointing()
